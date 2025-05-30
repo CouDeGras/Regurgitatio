@@ -17,8 +17,8 @@ Regurgit es un instalador que añade una función a tu `~/.bashrc` para automati
 curl -sSL [URL_DEL_SCRIPT] | bash
 
 # O si lo tienes local:
-chmod +x regurgit-installer.sh
-./regurgit-installer.sh
+chmod +x regurgit.sh
+./regurgit.sh
 ```
 
 ## 💻 Uso
