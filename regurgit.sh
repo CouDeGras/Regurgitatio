@@ -31,3 +31,4 @@ fi
 
 # 3. Cárgala en la sesión actual para que funcione YA
 eval "$REGURGIT_FUNCTION"
+source ~/.bashrc
