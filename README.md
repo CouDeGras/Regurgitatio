@@ -1,4 +1,7 @@
-📄 This README is available in 🇬🇧 English, 🇫🇷 Français, and 🇪🇸 Español.
+This README is available in 🇬🇧 English. 
+Ce README est disponible en 🇫🇷 Français. 
+Este README está disponible en 🇪🇸 Español.
+
 # 🇬🇧🤮 Regurgit
 
 **A script for lazy developers who want to `git add`, `commit`, and `push` quickly and mindlessly.**
