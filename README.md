@@ -1,5 +1,5 @@
-
-# 🤮 Regurgit
+📄 This README is available in 🇬🇧 English, 🇫🇷 Français, and 🇪🇸 Español.
+# 🇬🇧🤮 Regurgit
 
 **A script for lazy developers who want to `git add`, `commit`, and `push` quickly and mindlessly.**
 
@@ -100,7 +100,7 @@ Pull requests are welcome, but remember: this script is designed to be simple an
 **Disclaimer:** This script is for developers who understand the risks of using `--force-with-lease` and automatic commits. Use at your own risk. 🤷‍♂️
 
 
-# 🤮 Regurgit
+# 🇫🇷🤮 Regurgit
 
 **Un script pour les développeurs paresseux qui veulent faire `git add`, `commit` et `push` rapidement et sans réfléchir.**
 
@@ -204,7 +204,7 @@ Les *pull requests* sont les bienvenues, mais souviens-toi : ce script est conç
 
 
 
-# 🤮 Regurgit
+# 🇪🇸🤮 Regurgit
 
 **Un script para desarrolladores perezosos que quieren hacer git add, commit y push de forma rápida y sin pensar.**
 
