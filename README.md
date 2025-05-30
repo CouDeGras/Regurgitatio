@@ -1,8 +1,8 @@
-This README is available in 🇬🇧 English. 
+This README is available in English. 
 
-Ce README est disponible en 🇫🇷 Français. 
+Ce README est disponible en Français. 
 
-Este README está disponible en 🇪🇸 Español.
+Este README está disponible en Español.
 
 # 🇬🇧🤮 Regurgit
 
