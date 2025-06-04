@@ -20,7 +20,7 @@ regurgit() {
 }
 EOF
 )
-
+# buenos
 # 2. Añádela al ~/.bashrc si no existe
 if ! grep -q "^regurgit()" "$HOME/.bashrc"; then
   printf '\n%s\n' "$REGURGIT_FUNCTION" >> "$HOME/.bashrc"
