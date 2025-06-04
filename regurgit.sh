@@ -12,9 +12,9 @@ fi
 REGURGIT_FUNCTION=$(cat <<'EOF'
 # Git add, commit y push --force-with-lease
 regurgit() {
-  echo "regurgit: andado con git: add, commit y push forzado"
+  echo "regurgit: hecho con amor forzado"
   git add -A
-  git commit -m "regurgit: andado con git: add, commit y push forzado"
+  git commit -m "git push -u origin main --force"
   git push -u origin main --force-with-lease
   echo "hecho con amor"
 }
